@@ -4,8 +4,8 @@
 
 <h1 align="center">knowsme</h1>
 
-<p align="center"><b>Portable AI memory. Same you, in every AI.</b><br>
-One memory that follows you into Claude, ChatGPT, Cursor, Codex, Gemini and any AI that speaks MCP.</p>
+<p align="center"><b>One memory for you and your AI agents.</b><br>
+One memory of you and your work, shared by ChatGPT, Claude, Gemini, Grok, Codex, Cursor, OpenCode and any AI agent that speaks MCP.</p>
 
 <p align="center"><a href="https://knowsme.dev">knowsme.dev</a> · <a href="https://knowsme.dev/privacy">Privacy &amp; terms</a> · <a href="https://knowsme.dev/#pricing">Pricing</a></p>
 
@@ -29,8 +29,11 @@ ask "can we continue?", and it already knows.
 - **We can't read your notes.** Lock your notes with a passphrase and every note is locked before it
   is stored: the words, the titles, even which project it belongs to. Lock them before you connect an
   AI, and keep your recovery code safe.
-- **Every AI, not one.** Works with any client that speaks MCP, on your computer or in the cloud.
-- **You decide what each app can reach.** Read-only keys, keys limited to one project, keys that
+- **Every AI and agent, not one.** Chat apps, coding agents on your computer (Claude Code, Codex,
+  Cursor, OpenCode, Gemini CLI), agents that run in the cloud (Claude Code on the web, Cursor cloud
+  agents, Devin, GitHub Copilot's coding agent) and your own scripts or bots with a key of their
+  own. One agent picks up exactly where another left off.
+- **You decide what each AI can reach.** Read-only keys, keys limited to one project, keys that
   expire, and one-press cut-off from your dashboard.
 - **Hosted, nothing to run yourself.** No key goes into a command or a settings file.
 
