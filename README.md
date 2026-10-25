@@ -84,7 +84,7 @@ opencode mcp auth knowsme
 **A client that can only launch a local command:**
 
 ```json
-{ "mcpServers": { "knowsme": { "command": "npx", "args": ["-y", "mcp-remote", "https://mcp.knowsme.dev/mcp"] } } }
+{ "mcpServers": { "knowsme": { "command": "npx", "args": ["-y", "mcp-remote@0.15.2", "https://mcp.knowsme.dev/mcp"] } } }
 ```
 
 Then ask your AI: *"what do you know about me?"*
